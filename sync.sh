@@ -1,0 +1,1 @@
+rclone sync -v /home/pi/Documents/Group onedrive:Project 
